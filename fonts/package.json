@@ -1,10 +1,9 @@
 {
-	"name": "magicmirror-fonts",
-	"description": "Package for fonts use by MagicMirror Core.",
-	"license": "MIT",
-	"bugs": {
-	},
-	"dependencies": {
-		"roboto-fontface": "^0.10.0"
-	}
+  "name": "magicmirror-fonts",
+  "description": "Package for fonts use by MagicMirror Core.",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "roboto-fontface": "^0.10.0"
+  }
 }
